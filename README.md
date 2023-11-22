@@ -1,2 +1,2 @@
 ## Olá, meu nome é John Victor Oliveira
-Bacharel em Sistemas de Informação - UniCatólica
+Bacharel em Sistemas de Informação - UniCatólica de Quixadá
